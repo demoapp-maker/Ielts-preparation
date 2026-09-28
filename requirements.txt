@@ -1,0 +1,9 @@
+# pip install -r requirements.txt
+# lalu: python -m spacy download en_core_web_sm
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+vosk>=0.3.45
+language-tool-python>=2.8
+spacy>=3.7,<4
+numpy>=1.24

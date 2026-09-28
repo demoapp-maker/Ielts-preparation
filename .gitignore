@@ -1,0 +1,8 @@
+# Model Vosk tidak di-commit (68 MB) — unduh via download_models.sh
+models/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
